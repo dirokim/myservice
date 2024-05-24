@@ -11,6 +11,6 @@ public class MemberController {
 
 	@GetMapping("login")
 	public String memberLogin(Model model)throws Exception{
-		return "member/login";
+		return "member/loginpage";
 	}
 }
