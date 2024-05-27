@@ -13,4 +13,5 @@ public class MemberController {
 	public String memberLogin(Model model)throws Exception{
 		return "member/loginpage";
 	}
+	
 }
