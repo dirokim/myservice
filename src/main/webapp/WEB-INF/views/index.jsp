@@ -12,7 +12,6 @@
   data-template="vertical-menu-template-free"
 >
   <head>
-    
 	<c:import url="./temp/head.jsp"></c:import>
   </head>
 
