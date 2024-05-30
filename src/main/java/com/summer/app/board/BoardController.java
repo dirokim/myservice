@@ -17,7 +17,8 @@ public class BoardController {
 	
 	@GetMapping("create")
 	public ModelAndView createBoard(ModelAndView mv) throws Exception {
-			mv.setViewName("board/create");
+			mv.setViewName("index");
+			mv.addObject("path","board/create");
 		return mv;
 	}
 	
