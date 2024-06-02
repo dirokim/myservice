@@ -10,5 +10,10 @@ import lombok.ToString;
 public class BoardVO {
 
 	
-	private 
+	private Long board_num;
+	private Long member_id;
+	private String board_writer;
+	private String board_head;
+	private String board_contents;
+	private String board_date;
 }

@@ -3,19 +3,19 @@
 <!DOCTYPE html>
 <ul class="menu-inner py-1">
             <!-- Dashboard -->
-            <li class="menu-item active">
+            <!-- <li class="menu-item active">
               <a href="index.html" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-home-circle"></i>
                 <div data-i18n="Analytics">Dashboard</div>
               </a>
-            </li>
+            </li> -->
 
             
 
-            <li class="menu-header small text-uppercase">
+            <!-- <li class="menu-header small text-uppercase">
               <span class="menu-header-text">Pages</span>
-            </li>
-            <li class="menu-item">
+            </li> -->
+            <!-- <li class="menu-item">
               <a href="javascript:void(0);" class="menu-link menu-toggle">
                 <i class="menu-icon tf-icons bx bx-dock-top"></i>
                 <div data-i18n="Account Settings">Account Settings</div>
@@ -37,8 +37,9 @@
                   </a>
                 </li>
               </ul>
-            </li>
-            <li class="menu-item">
+            </li> -->
+            
+            <!-- <li class="menu-item">
               <a href="javascript:void(0);" class="menu-link menu-toggle">
                 <i class="menu-icon tf-icons bx bx-lock-open-alt"></i>
                 <div data-i18n="Authentications">Authentications</div>
@@ -79,16 +80,16 @@
                 </li>
               </ul>
             </li>
-            <!-- Components -->
+            Components
             <li class="menu-header small text-uppercase"><span class="menu-header-text">Components</span></li>
-            <!-- Cards -->
+            Cards
             <li class="menu-item">
               <a href="cards-basic.html" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-collection"></i>
                 <div data-i18n="Basic">Cards</div>
               </a>
             </li>
-            <!-- User interface -->
+            User interface
             <li class="menu-item">
               <a href="javascript:void(0)" class="menu-link menu-toggle">
                 <i class="menu-icon tf-icons bx bx-box"></i>
@@ -193,7 +194,7 @@
               </ul>
             </li>
 
-            <!-- Extended components -->
+            Extended components
             <li class="menu-item">
               <a href="javascript:void(0)" class="menu-link menu-toggle">
                 <i class="menu-icon tf-icons bx bx-copy"></i>
@@ -220,9 +221,9 @@
               </a>
             </li>
 
-            <!-- Forms & Tables -->
+            Forms & Tables
             <li class="menu-header small text-uppercase"><span class="menu-header-text">Forms &amp; Tables</span></li>
-            <!-- Forms -->
+            Forms
             <li class="menu-item">
               <a href="javascript:void(0);" class="menu-link menu-toggle">
                 <i class="menu-icon tf-icons bx bx-detail"></i>
@@ -259,9 +260,9 @@
                 </li>
               </ul>
             </li>
-            <!-- Tables -->
+            Tables
             
-            <!-- Misc -->
+            Misc
             <li class="menu-header small text-uppercase"><span class="menu-header-text">Misc</span></li>
             <li class="menu-item">
               <a
@@ -283,4 +284,4 @@
                 <div data-i18n="Documentation">Documentation</div>
               </a>
             </li>
-          </ul>
+          </ul> -->
