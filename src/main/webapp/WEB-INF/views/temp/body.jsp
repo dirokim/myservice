@@ -10,7 +10,7 @@
                         <div class="card-body">
                           
                           <div>hello</div>
-                          <span><a href="#">고민 작성</a></span>
+                          <span><a href="/board/create">고민 작성</a></span>
                           
                           
                         </div>

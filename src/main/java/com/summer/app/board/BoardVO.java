@@ -9,7 +9,6 @@ import lombok.ToString;
 @ToString
 public class BoardVO {
 
-	
 	private Long board_num;
 	private Long member_id;
 	private String board_writer;
