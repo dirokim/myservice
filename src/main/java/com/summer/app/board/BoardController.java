@@ -26,6 +26,6 @@ public class BoardController {
 	@PostMapping("create")
 	public void createBoard(Model model)throws Exception{
 		boardService.createBoard();
-		
+	
 	}
 }
